@@ -50,16 +50,6 @@ I'm a passionate **Software Developer** from Afghanistan, currently completing m
 
 ---
 
-## 🏆 GitHub Achievements
-
-| Badge | Name | Description |
-|-------|------|-------------|
-| 🦈 | **Pull Shark** |  |
-| 🚀 | **YOLO** |  |
-| ⚡ | **Quickdraw** |  |
-
----
-
 ## 📂 Real-World Projects
 
 | Project | Description | Tech Stack |
@@ -86,19 +76,6 @@ I'm a passionate **Software Developer** from Afghanistan, currently completing m
 - Built full-stack applications demonstrating real-world skills
 - Developed MIS for Afghan Ministry of Higher Education
 - Created Inventory & Attendance Management Systems
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Tayeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayebjalili&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayebjalili&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tayebjalili&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
