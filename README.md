@@ -103,6 +103,6 @@ I'm a passionate **Software Developer** from Afghanistan, currently completing m
   
 **💡 "Code is poetry. Build something meaningful."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=tayebjalili&color=blue&style=flat-square)
+
 
 </div>
