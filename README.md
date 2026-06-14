@@ -1,163 +1,202 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Tayeb%20Jalili&fontSize=58&color=0:020617,45:0f766e,100:0891b2&stroke=22d3ee&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20System%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=68" alt="Tayeb Jalili banner" />
+<img src="./assets/neon-command-banner.svg" alt="Tayeb Jalili futuristic neon command banner" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+systems+that+people+actually+use.;Laravel+APIs+%2B+React+interfaces+%2B+clean+databases.;From+government+workflows+to+business+dashboards.;Turning+messy+ideas+into+working+software." alt="Typing SVG" />
+<br />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+workflow+engines+for+real+institutions.;Laravel+brain.+React+cockpit.+MySQL+memory.;I+turn+manual+chaos+into+digital+systems.;Future-ready+software+with+human-centered+logic." alt="Typing animation" />
+
+<br />
 <br />
 
 <a href="https://tayebjalili.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=netlify&logoColor=020617" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=netlify&logoColor=061826" alt="Portfolio" />
 </a>
 <a href="https://github.com/tayebjalili">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://linkedin.com/in/tayeb-jalili-2a3564277">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:Tayebjalili53@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=tayebjalili&style=for-the-badge&color=22d3ee&label=PROFILE+VISITS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=tayebjalili&style=for-the-badge&color=00f5ff&label=VISITORS" alt="Profile visitors" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-14B8A6?style=for-the-badge" alt="Status building" />
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE_SYSTEMS-22D3EE?style=for-the-badge" alt="Focus scalable systems" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> Mission Control
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Developer coding animation" />
 
-```txt
-Tayeb Jalili
-├─ Role: Full-Stack Software Developer
-├─ Focus: Backend architecture, APIs, database design, dashboards
-├─ Edge: Real-world systems for education, government, and businesses
-├─ Stack: Laravel, React, Node.js, MySQL, JavaScript, PHP
-└─ Motto: Build clean. Ship useful. Improve continuously.
+## `// IDENTITY_PACKET`
+
+```php
+<?php
+
+final class TayebJalili
+{
+    public string $role = 'Full-Stack Software Developer';
+    public string $mission = 'Transform real-world workflows into reliable software';
+    public string $currentArc = 'Software Engineering Student | 2021 - 2025';
+
+    public array $coreStack = [
+        'backend' => ['Laravel', 'PHP', 'Node.js', 'Express'],
+        'frontend' => ['React', 'Next.js', 'JavaScript'],
+        'database' => ['MySQL', 'SQLite'],
+        'mobile' => ['Flutter', 'Dart'],
+        'tools' => ['Git', 'GitHub', 'Postman']
+    ];
+
+    public function build(): string
+    {
+        return 'Clean APIs + practical UI + data that makes decisions easier';
+    }
+}
 ```
 
-I am a Software Engineering student and full-stack developer who enjoys building practical systems: MIS platforms, school management tools, attendance workflows, inventory software, and dashboards that make daily work easier.
+I am not here to only make pages look nice. I build **digital operating systems** for schools, offices, teams, and institutions: systems that organize people, data, approvals, attendance, inventory, reports, and daily decisions.
 
 ---
 
-## System Status
+## `// COMMAND_CENTER`
+
+<img src="./assets/system-orbit.svg" alt="Tayeb Jalili system orbit map" width="100%" />
+
+---
+
+## `// WHAT_MAKES_MY_WORK_DIFFERENT`
 
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<h3>01</h3>
+<strong>Workflow First</strong>
 <br />
-API design, auth, workflows
+<br />
+I study the real process before designing the database, API, or dashboard.
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=020617" alt="React" />
+<h3>02</h3>
+<strong>Backend Depth</strong>
 <br />
-Clean interfaces and dashboards
+<br />
+Laravel, APIs, authentication, roles, approvals, and reporting are where I go deep.
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<h3>03</h3>
+<strong>Useful Interfaces</strong>
 <br />
-Relational data and reporting
+<br />
+React screens should guide users, reduce mistakes, and make work faster.
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/Mindset-Builder-22D3EE?style=flat-square" alt="Builder" />
+<h3>04</h3>
+<strong>Real Impact</strong>
 <br />
-Problem solving over noise
+<br />
+My projects are built around actual education, government, and business needs.
 </td>
 </tr>
 </table>
 
 ---
 
-## Tech Arsenal
+## `// PROJECT_MODULES`
+
+<table>
+<tr>
+<td width="50%">
+<h3>MIS.OS</h3>
+<p><strong>Directorate of Student Services Coordination</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+<p>A government-level workflow system designed to organize modules, records, approvals, and institutional operations.</p>
+<ul>
+<li>Workflow automation</li>
+<li>Secure multi-module structure</li>
+<li>Operational reporting foundation</li>
+</ul>
+</td>
+<td width="50%">
+<h3>ACADEMY.CORE</h3>
+<p><strong>School Management System</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=020617" alt="React" />
+</p>
+<p>A complete academic control center for students, teachers, classes, and school operations.</p>
+<ul>
+<li>Student and teacher management</li>
+<li>Class organization</li>
+<li>Centralized academic workflows</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>ATTENDANCE.SIGNAL</h3>
+<p><strong>Real-time Attendance System</strong></p>
+<p>
+<img src="https://img.shields.io/badge/API-22D3EE?style=flat-square" alt="API" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=020617" alt="React" />
+</p>
+<p>A tracking system focused on speed, clean data, and simple attendance visibility.</p>
+<ul>
+<li>API-based structure</li>
+<li>Fast attendance workflows</li>
+<li>Reporting-ready records</li>
+</ul>
+</td>
+<td width="50%">
+<h3>INVENTORY.RADAR</h3>
+<p><strong>Stock and Sales Tracking</strong></p>
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=020617" alt="JavaScript" />
+</p>
+<p>A practical inventory system for stock movement, sales visibility, and business reports.</p>
+<ul>
+<li>Stock management</li>
+<li>Sales tracking</li>
+<li>Operational dashboards</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+## `// TECH_COCKPIT`
 
 <div align="center">
 
 <h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=php,js,python,java,dart" alt="Languages" />
 
-<h3>Frameworks and Libraries</h3>
-<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,nextjs,flutter,django" alt="Frameworks and libraries" />
+<h3>Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,nextjs,flutter,django" alt="Frameworks" />
 
-<h3>Databases and Tools</h3>
+<h3>Data + Tools</h3>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" alt="Databases and tools" />
 
 </div>
 
 ---
 
-## Featured Builds
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>Government MIS System</h3>
-<p><strong>Directorate of Student Services Coordination</strong></p>
-<p><code>Laravel</code> <code>MySQL</code> <code>Workflow Automation</code></p>
-<p>Built for structured, secure, multi-module operations where data accuracy and process clarity matter.</p>
-<ul>
-<li>Automated manual workflows</li>
-<li>Organized records and approvals</li>
-<li>Designed for real institutional use</li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h3>School Management System</h3>
-<p><strong>Complete academic platform</strong></p>
-<p><code>Laravel</code> <code>React</code> <code>MySQL</code></p>
-<p>A centralized solution for schools to manage students, teachers, classes, and academic operations.</p>
-<ul>
-<li>Role-focused interfaces</li>
-<li>Student and class management</li>
-<li>Scalable academic data structure</li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3>Attendance System</h3>
-<p><strong>Fast tracking with API-based architecture</strong></p>
-<p><code>Laravel</code> <code>React</code> <code>REST API</code></p>
-<p>Designed to make attendance tracking simple, searchable, and reliable.</p>
-<ul>
-<li>Real-time style workflows</li>
-<li>API-first structure</li>
-<li>Practical reporting foundation</li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h3>Inventory System</h3>
-<p><strong>Stock, sales, and reporting</strong></p>
-<p><code>PHP</code> <code>JavaScript</code> <code>MySQL</code></p>
-<p>Built to help small teams understand inventory movement and business activity.</p>
-<ul>
-<li>Stock and sales tracking</li>
-<li>Reporting features</li>
-<li>Simple operational dashboard</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
----
-
-## Experience Timeline
+## `// EXPERIENCE_LOG`
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
 <h3>Kabul University</h3>
 <p><strong>Software Developer Intern</strong></p>
 <p><code>06/2024 - 12/2024</code></p>
@@ -166,152 +205,103 @@ Problem solving over noise
 <li>Database management</li>
 <li>System support</li>
 </ul>
-
 </td>
 <td width="33%" valign="top">
-
 <h3>Ministry of Higher Education</h3>
 <p><strong>IT Center Developer</strong></p>
 <p><code>2025</code></p>
 <ul>
 <li>MIS system development</li>
-<li>Government-level workflows</li>
-<li>Process optimization</li>
+<li>Government workflow optimization</li>
+<li>Institutional software support</li>
 </ul>
-
 </td>
 <td width="33%" valign="top">
-
 <h3>Freelance Developer</h3>
-<p><strong>Full-stack applications</strong></p>
+<p><strong>Full-Stack Applications</strong></p>
 <p><code>2022 - Present</code></p>
 <ul>
-<li>Client-focused systems</li>
-<li>Web applications</li>
-<li>Practical business solutions</li>
+<li>Client-focused web apps</li>
+<li>Business systems</li>
+<li>Practical digital solutions</li>
 </ul>
-
 </td>
 </tr>
 </table>
 
 ---
 
-## How I Think When Building
+## `// LANGUAGE_INTERFACE`
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-<h3>01. Understand the real workflow</h3>
-<p>Before writing code, I look for the people, forms, approvals, reports, and decisions behind the system.</p>
-
+<td align="center" width="25%">
+<strong>English</strong>
+<br />
+Advanced
 </td>
-<td width="50%">
-
-<h3>02. Design the data carefully</h3>
-<p>Clean databases make clean systems. I focus on relationships, constraints, and useful reporting from the start.</p>
-
+<td align="center" width="25%">
+<strong>Pashto</strong>
+<br />
+Native
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3>03. Build APIs that stay readable</h3>
-<p>Routes, controllers, validation, and responses should be easy to understand after the project grows.</p>
-
+<td align="center" width="25%">
+<strong>Dari</strong>
+<br />
+Proficient
 </td>
-<td width="50%">
-
-<h3>04. Keep interfaces practical</h3>
-<p>Good UI is not just beauty. It helps users complete tasks faster with fewer mistakes.</p>
-
+<td align="center" width="25%">
+<strong>Urdu</strong>
+<br />
+Advanced
 </td>
 </tr>
 </table>
 
 ---
 
-## GitHub Pulse
+## `// LIVE_TELEMETRY`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tayebjalili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=22d3ee&text_color=e5e7eb" alt="Tayeb Jalili GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tayebjalili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=22d3ee&text_color=e5e7eb" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayebjalili&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e5e7eb" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tayebjalili&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tayebjalili&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=14B8A6&currStreakLabel=22D3EE" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=tayebjalili&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## Languages
-
-<table align="center">
-<tr>
-<th>Language</th>
-<th>Level</th>
-</tr>
-<tr>
-<td>English</td>
-<td>Advanced</td>
-</tr>
-<tr>
-<td>Pashto</td>
-<td>Native</td>
-</tr>
-<tr>
-<td>Dari</td>
-<td>Proficient</td>
-</tr>
-<tr>
-<td>Urdu</td>
-<td>Advanced</td>
-</tr>
-</table>
-
----
-
-## What You Can Expect From Me
-
-<table align="center">
-<tr>
-<th>Backend Strength</th>
-<th>Product Thinking</th>
-<th>Reliability</th>
-<th>Growth</th>
-</tr>
-<tr>
-<td>Laravel, APIs, DB design</td>
-<td>Real-world workflows</td>
-<td>Clean, maintainable code</td>
-<td>Fast learner and problem solver</td>
-</tr>
-</table>
-
----
+## `// TRANSMISSION`
 
 <div align="center">
 
-<h3>Let's build something useful.</h3>
-
-<p>If you have an idea, system, dashboard, automation workflow, or web application in mind, I would be happy to connect.</p>
-
+<table>
+<tr>
+<td align="center">
+<h3>Ideas enter as chaos. Systems leave as clarity.</h3>
+<p>I believe software becomes powerful when it understands the real human problem behind the screen.</p>
+<p>
 <a href="https://tayebjalili.netlify.app">
-  <img src="https://img.shields.io/badge/Visit_My_Portfolio-22D3EE?style=for-the-badge&logo=netlify&logoColor=020617" alt="Visit my portfolio" />
+  <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-00F5FF?style=for-the-badge&logo=netlify&logoColor=061826" alt="Open portfolio" />
 </a>
 <a href="mailto:Tayebjalili53@gmail.com">
-  <img src="https://img.shields.io/badge/Start_A_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" />
+  <img src="https://img.shields.io/badge/SEND_SIGNAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
 </a>
+</p>
+</td>
+</tr>
+</table>
 
-<br />
-<br />
-
-<p><em>"Code is not just about logic. It is about solving real human problems."</em></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:020617&height=130&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:22d3ee&height=130&section=footer" alt="Futuristic footer wave" />
 
 </div>

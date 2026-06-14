@@ -1,0 +1,72 @@
+<svg width="1100" height="460" viewBox="0 0 1100 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Futuristic system orbit map</title>
+  <desc id="desc">A neon system map connecting backend, frontend, database, and product thinking around a central builder core.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1100" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#061826"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="165" y1="78" x2="950" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="tinyGrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#22d3ee" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1098" height="458" rx="28" fill="url(#panel)" stroke="#155e75" stroke-opacity="0.65" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="458" rx="28" fill="url(#tinyGrid)"/>
+  <path d="M126 230H314M786 230H974M550 96V158M550 302V364M315 230C400 116 700 116 785 230M315 230C400 344 700 344 785 230" stroke="url(#wire)" stroke-width="2" stroke-opacity="0.7"/>
+  <path d="M218 116L426 184M882 116L674 184M218 344L426 276M882 344L674 276" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.35"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="550" cy="230" r="76" fill="#082f49" stroke="#22d3ee" stroke-width="2.5"/>
+    <circle cx="550" cy="230" r="46" fill="#020617" stroke="#14b8a6" stroke-width="1.5"/>
+    <text x="550" y="221" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="800">BUILDER</text>
+    <text x="550" y="249" text-anchor="middle" fill="#67e8f9" font-family="'Segoe UI', Arial, sans-serif" font-size="13" letter-spacing="2">CORE</text>
+  </g>
+
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <g>
+      <rect x="82" y="74" width="238" height="82" rx="18" fill="#031524" stroke="#22d3ee" stroke-opacity="0.9"/>
+      <text x="201" y="108" text-anchor="middle" fill="#67e8f9" font-size="18" font-weight="800">BACKEND ENGINE</text>
+      <text x="201" y="133" text-anchor="middle" fill="#cbd5e1" font-size="14">Laravel, APIs, Auth, Workflows</text>
+    </g>
+    <g>
+      <rect x="780" y="74" width="238" height="82" rx="18" fill="#031524" stroke="#22d3ee" stroke-opacity="0.9"/>
+      <text x="899" y="108" text-anchor="middle" fill="#67e8f9" font-size="18" font-weight="800">FRONTEND COCKPIT</text>
+      <text x="899" y="133" text-anchor="middle" fill="#cbd5e1" font-size="14">React, Dashboards, UX Flow</text>
+    </g>
+    <g>
+      <rect x="82" y="304" width="238" height="82" rx="18" fill="#031524" stroke="#14b8a6" stroke-opacity="0.9"/>
+      <text x="201" y="338" text-anchor="middle" fill="#99f6e4" font-size="18" font-weight="800">DATA VAULT</text>
+      <text x="201" y="363" text-anchor="middle" fill="#cbd5e1" font-size="14">MySQL, SQLite, Reports</text>
+    </g>
+    <g>
+      <rect x="780" y="304" width="238" height="82" rx="18" fill="#031524" stroke="#14b8a6" stroke-opacity="0.9"/>
+      <text x="899" y="338" text-anchor="middle" fill="#99f6e4" font-size="18" font-weight="800">REAL-WORLD OPS</text>
+      <text x="899" y="363" text-anchor="middle" fill="#cbd5e1" font-size="14">MIS, Schools, Attendance, Stock</text>
+    </g>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="314" cy="230" r="5" fill="#22d3ee"/>
+    <circle cx="786" cy="230" r="5" fill="#22d3ee"/>
+    <circle cx="550" cy="158" r="5" fill="#14b8a6"/>
+    <circle cx="550" cy="302" r="5" fill="#14b8a6"/>
+  </g>
+
+  <text x="550" y="424" text-anchor="middle" fill="#64748b" font-family="'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="4">
+    IDEAS ENTER AS CHAOS - SYSTEMS LEAVE AS CLARITY
+  </text>
+</svg>
