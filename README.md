@@ -76,13 +76,13 @@ Problem solving over noise
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=php,js,python,java,dart" alt="Languages" />
 
-### Frameworks and Libraries
+<h3>Frameworks and Libraries</h3>
 <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,nextjs,flutter,django" alt="Frameworks and libraries" />
 
-### Databases and Tools
+<h3>Databases and Tools</h3>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" alt="Databases and tools" />
 
 </div>
@@ -95,64 +95,56 @@ Problem solving over noise
 <tr>
 <td width="50%">
 
-### Government MIS System
-
-**Directorate of Student Services Coordination**
-
-`Laravel` `MySQL` `Workflow Automation`
-
-Built for structured, secure, multi-module operations where data accuracy and process clarity matter.
-
-- Automated manual workflows
-- Organized records and approvals
-- Designed for real institutional use
+<h3>Government MIS System</h3>
+<p><strong>Directorate of Student Services Coordination</strong></p>
+<p><code>Laravel</code> <code>MySQL</code> <code>Workflow Automation</code></p>
+<p>Built for structured, secure, multi-module operations where data accuracy and process clarity matter.</p>
+<ul>
+<li>Automated manual workflows</li>
+<li>Organized records and approvals</li>
+<li>Designed for real institutional use</li>
+</ul>
 
 </td>
 <td width="50%">
 
-### School Management System
-
-**Complete academic platform**
-
-`Laravel` `React` `MySQL`
-
-A centralized solution for schools to manage students, teachers, classes, and academic operations.
-
-- Role-focused interfaces
-- Student and class management
-- Scalable academic data structure
+<h3>School Management System</h3>
+<p><strong>Complete academic platform</strong></p>
+<p><code>Laravel</code> <code>React</code> <code>MySQL</code></p>
+<p>A centralized solution for schools to manage students, teachers, classes, and academic operations.</p>
+<ul>
+<li>Role-focused interfaces</li>
+<li>Student and class management</li>
+<li>Scalable academic data structure</li>
+</ul>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Attendance System
-
-**Fast tracking with API-based architecture**
-
-`Laravel` `React` `REST API`
-
-Designed to make attendance tracking simple, searchable, and reliable.
-
-- Real-time style workflows
-- API-first structure
-- Practical reporting foundation
+<h3>Attendance System</h3>
+<p><strong>Fast tracking with API-based architecture</strong></p>
+<p><code>Laravel</code> <code>React</code> <code>REST API</code></p>
+<p>Designed to make attendance tracking simple, searchable, and reliable.</p>
+<ul>
+<li>Real-time style workflows</li>
+<li>API-first structure</li>
+<li>Practical reporting foundation</li>
+</ul>
 
 </td>
 <td width="50%">
 
-### Inventory System
-
-**Stock, sales, and reporting**
-
-`PHP` `JavaScript` `MySQL`
-
-Built to help small teams understand inventory movement and business activity.
-
-- Stock and sales tracking
-- Reporting features
-- Simple operational dashboard
+<h3>Inventory System</h3>
+<p><strong>Stock, sales, and reporting</strong></p>
+<p><code>PHP</code> <code>JavaScript</code> <code>MySQL</code></p>
+<p>Built to help small teams understand inventory movement and business activity.</p>
+<ul>
+<li>Stock and sales tracking</li>
+<li>Reporting features</li>
+<li>Simple operational dashboard</li>
+</ul>
 
 </td>
 </tr>
@@ -166,38 +158,38 @@ Built to help small teams understand inventory movement and business activity.
 <tr>
 <td width="33%" valign="top">
 
-### Kabul University
-**Software Developer Intern**
-
-`06/2024 - 12/2024`
-
-- Backend development
-- Database management
-- System support
-
-</td>
-<td width="33%" valign="top">
-
-### Ministry of Higher Education
-**IT Center Developer**
-
-`2025`
-
-- MIS system development
-- Government-level workflows
-- Process optimization
+<h3>Kabul University</h3>
+<p><strong>Software Developer Intern</strong></p>
+<p><code>06/2024 - 12/2024</code></p>
+<ul>
+<li>Backend development</li>
+<li>Database management</li>
+<li>System support</li>
+</ul>
 
 </td>
 <td width="33%" valign="top">
 
-### Freelance Developer
-**Full-stack applications**
+<h3>Ministry of Higher Education</h3>
+<p><strong>IT Center Developer</strong></p>
+<p><code>2025</code></p>
+<ul>
+<li>MIS system development</li>
+<li>Government-level workflows</li>
+<li>Process optimization</li>
+</ul>
 
-`2022 - Present`
+</td>
+<td width="33%" valign="top">
 
-- Client-focused systems
-- Web applications
-- Practical business solutions
+<h3>Freelance Developer</h3>
+<p><strong>Full-stack applications</strong></p>
+<p><code>2022 - Present</code></p>
+<ul>
+<li>Client-focused systems</li>
+<li>Web applications</li>
+<li>Practical business solutions</li>
+</ul>
 
 </td>
 </tr>
@@ -211,28 +203,28 @@ Built to help small teams understand inventory movement and business activity.
 <tr>
 <td width="50%">
 
-### 01. Understand the real workflow
-Before writing code, I look for the people, forms, approvals, reports, and decisions behind the system.
+<h3>01. Understand the real workflow</h3>
+<p>Before writing code, I look for the people, forms, approvals, reports, and decisions behind the system.</p>
 
 </td>
 <td width="50%">
 
-### 02. Design the data carefully
-Clean databases make clean systems. I focus on relationships, constraints, and useful reporting from the start.
+<h3>02. Design the data carefully</h3>
+<p>Clean databases make clean systems. I focus on relationships, constraints, and useful reporting from the start.</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 03. Build APIs that stay readable
-Routes, controllers, validation, and responses should be easy to understand after the project grows.
+<h3>03. Build APIs that stay readable</h3>
+<p>Routes, controllers, validation, and responses should be easy to understand after the project grows.</p>
 
 </td>
 <td width="50%">
 
-### 04. Keep interfaces practical
-Good UI is not just beauty. It helps users complete tasks faster with fewer mistakes.
+<h3>04. Keep interfaces practical</h3>
+<p>Good UI is not just beauty. It helps users complete tasks faster with fewer mistakes.</p>
 
 </td>
 </tr>
@@ -304,9 +296,9 @@ Good UI is not just beauty. It helps users complete tasks faster with fewer mist
 
 <div align="center">
 
-### Let's build something useful.
+<h3>Let's build something useful.</h3>
 
-If you have an idea, system, dashboard, automation workflow, or web application in mind, I would be happy to connect.
+<p>If you have an idea, system, dashboard, automation workflow, or web application in mind, I would be happy to connect.</p>
 
 <a href="https://tayebjalili.netlify.app">
   <img src="https://img.shields.io/badge/Visit_My_Portfolio-22D3EE?style=for-the-badge&logo=netlify&logoColor=020617" alt="Visit my portfolio" />
@@ -318,7 +310,7 @@ If you have an idea, system, dashboard, automation workflow, or web application 
 <br />
 <br />
 
-> "Code is not just about logic. It is about solving real human problems."
+<p><em>"Code is not just about logic. It is about solving real human problems."</em></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:020617&height=130&section=footer" alt="Footer wave" />
 
